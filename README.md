@@ -14,7 +14,3 @@ Este repositório foi criado para organizar e compartilhar meus projetos da facu
 ## 📂 Estrutura
 Cada projeto estará em uma pasta separada com seu respectivo código e, quando necessário, um README explicando o funcionamento.
 
-## 🚀 Como executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
