@@ -25,3 +25,8 @@ void atacar(Territorio* atacante, Territorio* defensor) {
     printf("%s - Cor: %s - Tropas: %d\n", atacante->nome, atacante->cor, atacante->tropas);
     printf("%s - Cor: %s - Tropas: %d\n", defensor->nome, defensor->cor, defensor->tropas);
 }
+
+// Função para liberar memória
+void liberarMemoria(Territorio* mapa) {
+    free(mapa);
+}
