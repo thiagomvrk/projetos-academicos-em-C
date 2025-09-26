@@ -21,10 +21,9 @@ No sistema:
 
 ## 🛠 Tecnologias utilizadas
 
-- Linguagem **C (ANSI C)**  
+- Linguagem **C**  
 - **Ponteiros** e **alocação dinâmica** (`malloc` / `free`)  
 - **Vetores** (listas sequenciais)  
 - **Listas encadeadas**  
 - Funções modulares para operações de cadastro, remoção, listagem e busca  
-- Bibliotecas: `<stdio.h>`, `<stdlib.h>`, `<string.h>`  
 - Algoritmos: Bubble Sort, Selection Sort, Insertion Sort e busca binária
