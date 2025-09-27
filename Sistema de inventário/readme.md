@@ -1,4 +1,4 @@
-# 🎒 Sistema de Inventário – Vetor e Lista Encadeada
+# 🎒 Sistema de Inventário em C – Vetor e Lista Encadeada
 
 ## 🎯 Sobre o projeto
 Sistema de inventário de jogo desenvolvido em C, onde o jogador pode cadastrar, remover, listar e buscar itens em uma mochila virtual. O objetivo é praticar **vetores, listas encadeadas, ponteiros, alocação dinâmica e algoritmos de busca e ordenação**.
