@@ -1,4 +1,4 @@
-# 🎮 Tetris Stack – Gerenciador de Peças Avançado
+# 🎮 Tetris Stack – Gerenciador de Peças Avançado em C
 
 ## 📝 Descrição do projeto
 Este projeto é um gerenciador de peças para o jogo Tetris Stack, desenvolvido em C, que utiliza **fila circular** e **pilha linear** para controlar peças futuras e reservadas. O jogador pode executar ações estratégicas como jogar peças, reservar, usar peças da reserva e realizar trocas simples ou múltiplas entre a fila e a pilha.
